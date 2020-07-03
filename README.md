@@ -1,7 +1,7 @@
 # Bank-Management-System
 All the functionalities of a bank in C 
 
-### This is the Project I created in C that performs all the functionalities a basic bank could perfrom like:
+### This is the Project I created in C while learning Data Structures in C language and getting familiar with them that performs all the functionalities a basic bank could perfrom like:
 1. Create a bank account
 2. View Balance
 3. Deposit Money
