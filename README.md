@@ -12,4 +12,4 @@ All the functionalities of a bank in C
 
 #### A password is also added when creating a new account
 #### It would ask for password when asking to check for a particular account and only the right user to withdraw or deposit money 
-##### A complete report has been created for the project as I made it as Mini Project for our college
+
